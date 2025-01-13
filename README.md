@@ -2,16 +2,22 @@
 
 <a href="https://github.com/znakoa" target="_blank"><img align=center src="https://img.shields.io/badge/github-znakoa-%231677ff?style=for-the-badge"/></a>
 
-欢迎来到我的 GitHub 主页！我是一名专注于 **前端开发** 的开发者，热爱构建美观、响应式且用户友好的 Web 应用。我喜欢将设计转化为代码，并不断探索新的前端技术和工具。
+欢迎来到我的 GitHub 主页！我是一名全栈开发者，专注于 **前端开发** 和 **后端开发**，同时也对 **人工智能（AI）** 应用充满兴趣。我喜欢构建高效、可扩展的 Web 应用，并将 AI 技术融入实际项目中。
 
 ## 🛠️ 技术栈
 
-- **前端框架**: React, Vue.js
+### 前端技术
+- **前端框架**: React, Vue.js, Angular
 - **CSS 框架**: Tailwind CSS, Bootstrap, Material-UI
 - **JavaScript**: ES6+, TypeScript
 - **构建工具**: Webpack, Vite, Babel
 - **版本控制**: Git, GitHub
 - **其他工具**: Figma, Postman, Chrome DevTools
+
+### 后端技术
+- **后端框架**: Node.js, Express, NestJS
+- **数据库**: MongoDB, MySQL, PostgreSQL
+
 
 ## 🎨 设计风格
 
