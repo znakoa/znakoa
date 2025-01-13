@@ -1,5 +1,7 @@
 # 👋 你好，我是 Znakoa！
 
+<a href="https://github.com/znakoa" target="_blank"><img align=center src="https://img.shields.io/badge/github-znakoa-%231677ff?style=for-the-badge"/></a>
+
 欢迎来到我的 GitHub 主页！我是一名专注于 **前端开发** 的开发者，热爱构建美观、响应式且用户友好的 Web 应用。我喜欢将设计转化为代码，并不断探索新的前端技术和工具。
 
 ## 🛠️ 技术栈
