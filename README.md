@@ -4,13 +4,6 @@
 
 欢迎来到我的 GitHub 主页！
 
-
-
-## 📊 GitHub 数据
-
-[![Znakoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=znakoa&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/znakoa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znakoa&layout=compact&theme=radical)](https://github.com/znakoa)
-
 ## 📫 联系我
 
 如果你对我的技能感兴趣，或者想一起合作，欢迎联系我！
