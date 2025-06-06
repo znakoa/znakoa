@@ -1,7 +1,5 @@
  👋 你好，我是 Znakoa！
 
-<a href="https://github.com/znakoa" target="_blank"><img align=center src="https://img.shields.io/badge/github-znakoa-%231677ff?style=for-the-badge"/></a>
-
 欢迎来到我的 GitHub 主页！
 
 ## 📫 联系我
