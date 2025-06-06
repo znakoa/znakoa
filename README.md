@@ -1,16 +1,10 @@
-![image](https://github.com/user-attachments/assets/e3f90ae6-1036-411d-b182-6efc1078685f)# 👋 你好，我是 Znakoa！
+ 👋 你好，我是 Znakoa！
 
 <a href="https://github.com/znakoa" target="_blank"><img align=center src="https://img.shields.io/badge/github-znakoa-%231677ff?style=for-the-badge"/></a>
 
 欢迎来到我的 GitHub 主页！
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
-</picture>
 
 ## 📊 GitHub 数据
 
@@ -23,7 +17,10 @@
 - **邮箱**: [18951005670@163.com]
 - **个人网站**: [https://znakoa.github.io](https://znakoa.github.io)
 
-## 🎯 目标
+### 🐍 Contribution Snake
 
-我正在寻找 [全职前端开发工作、开源项目合作等]。如果你有合适的机会，欢迎联系我！
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
