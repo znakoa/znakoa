@@ -1,29 +1,16 @@
-# 👋 你好，我是 Znakoa！
+![image](https://github.com/user-attachments/assets/e3f90ae6-1036-411d-b182-6efc1078685f)# 👋 你好，我是 Znakoa！
 
 <a href="https://github.com/znakoa" target="_blank"><img align=center src="https://img.shields.io/badge/github-znakoa-%231677ff?style=for-the-badge"/></a>
 
-欢迎来到我的 GitHub 主页！我是一名全栈开发者，专注于 **前端开发** 和 **后端开发**，同时也对 **人工智能（AI）** 应用充满兴趣。我喜欢构建高效、可扩展的 Web 应用，并将 AI 技术融入实际项目中。
+欢迎来到我的 GitHub 主页！
 
-## 🛠️ 技术栈
+### 🐍 Contribution Snake
 
-### 前端技术
-- **前端框架**: React, Vue.js, Angular
-- **CSS 框架**: Tailwind CSS, Bootstrap, Material-UI
-- **JavaScript**: ES6+, TypeScript
-- **构建工具**: Webpack, Vite, Babel
-- **版本控制**: Git, GitHub
-- **其他工具**: Figma, Postman, Chrome DevTools
-
-### 后端技术
-- **后端框架**: Node.js, Express, NestJS
-- **数据库**: MongoDB, MySQL, PostgreSQL
-
-
-## 🎨 设计风格
-
-我喜欢简洁、现代的设计风格，注重用户体验和交互细节。以下是我常用的设计工具：
-- **Figma**: 用于原型设计和 UI 设计。
-- **Tailwind CSS**: 用于快速构建响应式界面。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📊 GitHub 数据
 
